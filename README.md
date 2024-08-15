@@ -14,13 +14,50 @@ Este repositório foi criado com o intuito de ser um ponto de encontro para enge
 
 ## 💻 Estrutura do Projeto
 
-O projeto é dividido em duas frentes principais:
+O projeto é dividido em frentes principais:
 
-### 1. Matemática Aplicada
+### 1. Matemática Básica
 
-- **Álgebra Linear**: Matrizes, determinantes, sistemas lineares.
-- **Cálculo**: Derivadas, integrais, séries, equações diferenciais.
-- **Estatística e Probabilidade**: Conceitos básicos e aplicações em engenharia.
+- **[Aritmética Fundamental]()** :
+  -  Fundamentos das Operações Básicas
+  -  Divisibilidade e Números Primos
+  -  Mínimo Múltiplo Comum (MMC) e Máximo Divisor Comum (MDC)
+  - Frações e Operações Relacionadas
+  - Potenciação e Radicais
+  - Razão, Proporcionalidade e Regra de Três
+  - Porcentagem e Juros
+  - Médias
+
+- **[Álgebra e Equações]()** :
+    - Monômios, Polinômios e Fatoração
+    - Expressões Algébricas e Produtos Notáveis
+    - Equações de 1º Grau e Sistemas
+    - Equações de 2º Grau e Outros Tipos de Equações
+
+- **[Grade Curricular: Conjuntos, Funções e Geometria Analítica]()** :
+  - Conjuntos e Operações com Conjuntos
+  - Conjuntos Numéricos
+  - Intervalos e Geometria Analítica
+  - Funções do 1º Grau
+  - Funções do 2º Grau e Geometria das Parábolas
+  
+- **[Trigonometria]()** :
+  - Razões Trigonométricas
+
+- **[Geometria e Transformação de Unidades]()** :
+  - Transformação de Unidades
+  - Geometria Plana e Classificação de Figuras
+  - Relações Métricas e Áreas
+  - Estudo dos Polígonos
+  - Geometria Avançada
+
+- **[Grade Curricular: Geometria Espacial]()** :
+  - Estudo dos Sólidos Geométricos
+  
+- **[Estatística e Representação Gráfica]()** :
+  - Representação Gráfica
+  - Medidas de Tendência Central
+---
 
 ### 2. Física Aplicada
 
