@@ -18,8 +18,8 @@ O projeto é dividido em frentes principais:
 
 ### 1. Matemática Básica
 
-- **[Aritmética Fundamental]()** :
-  -  Fundamentos das Operações Básicas
+- **Aritmética Fundamental** :
+  -  [Fundamentos das Operações Básicas](./aritimetica_fundamental/Operacoes_Basicas.ipynb)
   -  Divisibilidade e Números Primos
   -  Mínimo Múltiplo Comum (MMC) e Máximo Divisor Comum (MDC)
   - Frações e Operações Relacionadas
