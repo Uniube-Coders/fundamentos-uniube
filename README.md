@@ -19,14 +19,14 @@ O projeto é dividido em frentes principais:
 ### 1. Matemática Básica
 
 - **Aritmética Fundamental** :
-  -  [Fundamentos das Operações Básicas](./aritimetica_fundamental/Operacoes_Basicas.ipynb)
-  -  [Divisibilidade e Números Primos](./aritimetica_fundamental/divisores_primos.ipynb)
-  -  [Mínimo Múltiplo Comum (MMC) e Máximo Divisor Comum (MDC)](./aritimetica_fundamental/mdc_mmc.ipynb)
-  - Frações e Operações Relacionadas
-  - Potenciação e Radicais
-  - Razão, Proporcionalidade e Regra de Três
-  - Porcentagem e Juros
-  - Médias
+  -  [Fundamentos das Operações Básicas](./matematica_basica/aritimetica_fundamental/Operacoes_Basicas.ipynb)
+  -  [Divisibilidade e Números Primos](./matematica_basica/aritimetica_fundamental/divisores_primos.ipynb)
+  -  [Mínimo Múltiplo Comum (MMC) e Máximo Divisor Comum (MDC)](./matematica_basica/aritimetica_fundamental/mdc_mmc.ipynb)
+  -  [Frações e Operações Relacionadas](./matematica_basica/aritimetica_fundamental/fracoes.ipynb)
+  -  [Potenciação e Radicais](./matematica_basica/aritimetica_fundamental/potencias_radicais.ipynb)
+  -  [Razão, Proporcionalidade e Regra de Três](./matematica_basica/aritimetica_fundamental/razao_proporcao.ipynb)
+  -  [Porcentagem e Juros](./matematica_basica/aritimetica_fundamental/porcentagem_juros.ipynb)
+  -  [Médias](./matematica_basica/aritimetica_fundamental/medias.ipynb)
 
 - **[Álgebra e Equações]()** :
     - Monômios, Polinômios e Fatoração
